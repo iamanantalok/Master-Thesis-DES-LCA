@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Jupyter/Colab
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+
+# Secrets — never commit tokens or keys
+*.env
+.env
